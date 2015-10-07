@@ -1,0 +1,29 @@
+{
+  "name": "userstore",
+  "version": "1.0.0",
+  "description": "UserStore API Wrapper",
+  "main": "userstore.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/userstore/userstore-node.git"
+  },
+  "keywords": [
+    "userstore",
+    "user",
+    "authentication",
+    "management",
+    "api"
+  ],
+  "author": "UserStore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/userstore/userstore-node/issues"
+  },
+  "homepage": "https://github.com/userstore/userstore-node#readme",
+  "dependencies": {
+    "superagent": "^1.4.0"
+  }
+}
