@@ -31,20 +31,20 @@ userstore.users.create(
 
 *Where you see `data` or `options` it is a plain JavaScript object, e.g. `{ email: 'user@example.com' }`*
 
- * auth
+##### auth
   * `signIn(signInId, password, callback)`
   * `signOut(id, callback)`
   * `forgotPassword(email, callback)`
   * `resetPassword(code, password, callback)`
   * `verify(code, callback)`
   * `confirm(id, password, callback)`
- * users
+##### users
   * `create(data, callback)`
   * `get(id, callback)`
   * `list(options, callback)`
   * `update(options, data, callback)`
   * `delete(id, callback)`
- * token
+##### token
   * `get(id, callback)`
 
 ## More information
