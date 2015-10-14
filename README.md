@@ -38,12 +38,14 @@ userstore.users.create(
   * `resetPassword(code, password, callback)`
   * `verify(code, callback)`
   * `confirm(id, password, callback)`
+
 ##### users
   * `create(data, callback)`
   * `get(id, callback)`
   * `list(options, callback)`
   * `update(options, data, callback)`
   * `delete(id, callback)`
+
 ##### token
   * `get(id, callback)`
 
