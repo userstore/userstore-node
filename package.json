@@ -1,11 +1,8 @@
 {
   "name": "userstore",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "UserStore API Wrapper",
   "main": "lib/userstore.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/userstore/userstore-node.git"
