@@ -34,19 +34,15 @@ userstore.users.create(
  * auth
   * `signIn(signInId, password, callback)`
   * `signOut(id, callback)`
-  * `forgotPassword(email, callback)`
+  * `forgotPassword(email, options, callback)`
   * `resetPassword(code, password, callback)`
   * `verify(code, callback)`
   * `confirm(id, password, callback)`
  * users
-  * `create(data, callback)`
-  * `get(id, callback)`
+  * `create(options, data, callback)`
+  * `get(id, options, callback)`
   * `list(options, callback)`
   * `update(options, data, callback)`
   * `delete(id, callback)`
  * token
   * `get(id, callback)`
-
-## More information
-
- * [REST API Version](https://www.userstore.io/docs/rest-api)
