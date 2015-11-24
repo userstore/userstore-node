@@ -1,12 +1,14 @@
 # UserStore API Wrapper for Node.js
 
+[UserStore](https://www.userstore.io) ia a hosted user authentication and management service. Easy to integrate so you can start registering and managing users in less than an hour. 
+
 ## Installation
 
 `npm install userstore`
 
 ## Documentation
 
-Documentation is available at https://www.userstore.io/docs.
+Documentation is available at [https://www.userstore.io/docs](https://www.userstore.io/docs).
 
 ## API Overview
 
