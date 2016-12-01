@@ -1,6 +1,6 @@
 {
   "name": "userstore",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "UserStore API Wrapper",
   "main": "lib/userstore.js",
   "repository": {
