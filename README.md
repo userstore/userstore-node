@@ -48,5 +48,5 @@ userstore.users.create(
   * `update(options, data, callback)`
   * `delete(id, callback)`
 
-##### token
+##### tokens
   * `get(id, callback)`
